@@ -1,0 +1,9 @@
+C:\Users\student\source\repos\StudentLib\bin\Debug\StudentLib.dll
+C:\Users\student\source\repos\StudentLib\bin\Debug\StudentLib.pdb
+C:\Users\student\source\repos\StudentLib\obj\Debug\StudentLib.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\StudentLib\obj\Debug\StudentLib.dll
+C:\Users\student\source\repos\StudentLib\obj\Debug\StudentLib.pdb
+C:\Users\Студент.MOD\source\repos\StudentLib\bin\Debug\StudentLib.dll
+C:\Users\Студент.MOD\source\repos\StudentLib\bin\Debug\StudentLib.pdb
+C:\Users\Студент.MOD\source\repos\StudentLib\obj\Debug\StudentLib.dll
+C:\Users\Студент.MOD\source\repos\StudentLib\obj\Debug\StudentLib.pdb
